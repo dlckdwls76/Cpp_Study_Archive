@@ -8,6 +8,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrintAge", "PrintAge\PrintA
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lv0_SharePizza_2", "Lv0_SharePizza_2\Lv0_SharePizza_2.vcxproj", "{F1132284-BA2E-4BF7-834A-8D6A0AEE2E28}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lv0_BigStringSmallString", "Lv0_BigStringSmallString\Lv0_BigStringSmallString.vcxproj", "{12D79DC2-7891-4359-9308-B2D4E3D4DA37}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lv0_HateEnglish", "Lv0_HateEnglish\Lv0_HateEnglish.vcxproj", "{8557444C-647F-4201-8FE8-A50008FB8204}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -48,5 +52,21 @@ Global
 		{F1132284-BA2E-4BF7-834A-8D6A0AEE2E28}.Release|Win32.Build.0 = Release|Win32
 		{F1132284-BA2E-4BF7-834A-8D6A0AEE2E28}.Release|x64.ActiveCfg = Release|x64
 		{F1132284-BA2E-4BF7-834A-8D6A0AEE2E28}.Release|x64.Build.0 = Release|x64
+		{12D79DC2-7891-4359-9308-B2D4E3D4DA37}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12D79DC2-7891-4359-9308-B2D4E3D4DA37}.Debug|Win32.Build.0 = Debug|Win32
+		{12D79DC2-7891-4359-9308-B2D4E3D4DA37}.Debug|x64.ActiveCfg = Debug|x64
+		{12D79DC2-7891-4359-9308-B2D4E3D4DA37}.Debug|x64.Build.0 = Debug|x64
+		{12D79DC2-7891-4359-9308-B2D4E3D4DA37}.Release|Win32.ActiveCfg = Release|Win32
+		{12D79DC2-7891-4359-9308-B2D4E3D4DA37}.Release|Win32.Build.0 = Release|Win32
+		{12D79DC2-7891-4359-9308-B2D4E3D4DA37}.Release|x64.ActiveCfg = Release|x64
+		{12D79DC2-7891-4359-9308-B2D4E3D4DA37}.Release|x64.Build.0 = Release|x64
+		{8557444C-647F-4201-8FE8-A50008FB8204}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8557444C-647F-4201-8FE8-A50008FB8204}.Debug|Win32.Build.0 = Debug|Win32
+		{8557444C-647F-4201-8FE8-A50008FB8204}.Debug|x64.ActiveCfg = Debug|x64
+		{8557444C-647F-4201-8FE8-A50008FB8204}.Debug|x64.Build.0 = Debug|x64
+		{8557444C-647F-4201-8FE8-A50008FB8204}.Release|Win32.ActiveCfg = Release|Win32
+		{8557444C-647F-4201-8FE8-A50008FB8204}.Release|Win32.Build.0 = Release|Win32
+		{8557444C-647F-4201-8FE8-A50008FB8204}.Release|x64.ActiveCfg = Release|x64
+		{8557444C-647F-4201-8FE8-A50008FB8204}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
