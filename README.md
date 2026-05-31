@@ -1,2 +1,2 @@
-# CodingTest
-CodingTest
+# Coding&Algorithm
+
