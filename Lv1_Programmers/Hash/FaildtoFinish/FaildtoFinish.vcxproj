@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{CA4D0658-3426-49B9-BAAF-60EBD02DDDD5}</ProjectGuid>
+    <ProjectGuid>{FD495FEF-F76B-469A-B0FC-BCB3127B26AD}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Hash</RootNamespace>
+    <RootNamespace>FaildtoFinish</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -154,7 +154,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Hash.cpp" />
+    <ClCompile Include="FaildtoFinish.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
