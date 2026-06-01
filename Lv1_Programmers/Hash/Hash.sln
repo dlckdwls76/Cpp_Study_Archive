@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hash", "Hash\Hash.vcxproj", "{18E65B6C-E99A-495A-B785-6C3BDFF479CB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FaildtoFinish", "FaildtoFinish\FaildtoFinish.vcxproj", "{FD495FEF-F76B-469A-B0FC-BCB3127B26AD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lv1_FaildtoFinish", "Lv1_FaildtoFinish\Lv1_FaildtoFinish.vcxproj", "{FD495FEF-F76B-469A-B0FC-BCB3127B26AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
