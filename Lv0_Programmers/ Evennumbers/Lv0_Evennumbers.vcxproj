@@ -20,14 +20,15 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{3FBF373F-60C3-4F2B-90BF-AE9BC63FA737}</ProjectGuid>
+    <ProjectGuid>{55EC4056-45DF-46F0-ADF1-CD262994F2CC}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>PrintAge</RootNamespace>
+    <RootNamespace>Evennumbers</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup>
     <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+    <RootNamespace>Lv0_Evennumbers</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
@@ -154,7 +155,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="PrintAge.cpp" />
+    <ClCompile Include="Evennumbers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

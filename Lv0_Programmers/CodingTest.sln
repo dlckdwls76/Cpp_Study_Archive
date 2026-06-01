@@ -2,9 +2,9 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodingTest", "CodingTest\CodingTest.vcxproj", "{56B22FD4-47B3-48C5-B208-A64E535CACC4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Evennumbers", " Evennumbers\Evennumbers.vcxproj", "{55EC4056-45DF-46F0-ADF1-CD262994F2CC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lv0_Evennumbers", " Evennumbers\Lv0_Evennumbers.vcxproj", "{55EC4056-45DF-46F0-ADF1-CD262994F2CC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrintAge", "PrintAge\PrintAge.vcxproj", "{3FBF373F-60C3-4F2B-90BF-AE9BC63FA737}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lv0_PrintAge", "Lv0_PrintAge\Lv0_PrintAge.vcxproj", "{3FBF373F-60C3-4F2B-90BF-AE9BC63FA737}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lv0_SharePizza_2", "Lv0_SharePizza_2\Lv0_SharePizza_2.vcxproj", "{F1132284-BA2E-4BF7-834A-8D6A0AEE2E28}"
 EndProject
