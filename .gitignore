@@ -1,31 +1,13 @@
-# === OS generated files ===
-.DS_Store
-Thumbs.db
+# 1. 우선 모든 파일과 폴더를 무시합니다.
+*
 
-# === Compiled Binary Files ===
-*.exe
-*.out
-*.o
-*.obj
+# 2. 하지만 폴더 구조(디렉토리) 자체는 탐색할 수 있도록 허용합니다.
+!*/
 
-# === IDE & Tools ===
-# Visual Studio
-.vs/
-*.user
-*.suo
-*.sln
-*.vcxproj
-*.filters
+# 3. C++ 관련 소스 코드 파일만 예외적으로 깃허브에 올리도록 허용합니다.
+!*.cpp
+!*.h
+!*.hpp
 
-# VS Code
-.vscode/
-
-# CLion (JetBrains)
-.idea/
-cmake-build-debug/
-cmake-build-release/
-
-# === Custom Test Cases (Optional) ===
-# 로컬에서 테스트할 때 쓰는 input/output 텍스트 파일 예외 처리
-input.txt
-output.txt
+# 4. (선택) 만약 문제 풀이 설명용 README.md 파일도 올리고 싶다면 아래 주석을 해제하세요.
+!README.md
