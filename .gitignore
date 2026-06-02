@@ -1,38 +1,31 @@
-# ==========================================
-# C++ & JetBrains Rider 코딩테스트용 .gitignore
-# ==========================================
+# === OS generated files ===
+.DS_Store
+Thumbs.db
 
-# 1. JetBrains Rider IDE 설정 파일
-.idea/
-*.sln.iml
+# === Compiled Binary Files ===
+*.exe
+*.out
+*.o
+*.obj
 
-# 2. Visual Studio 빌드 폴더 및 파일 (Rider 내부 사용)
+# === IDE & Tools ===
+# Visual Studio
 .vs/
 *.user
 *.suo
+*.sln
+*.vcxproj
+*.filters
 
-# 3. 컴파일 및 빌드 결과물 (깃허브에 올리면 안 되는 파일들)
-[Dd]ebug/
-[Rr]elease/
-x64/
-x86/
-*.exe
-*.obj
-*.pdb
-*.ilk
-*.lib
-*.dll
-*.exp
-*.out
-*.app
+# VS Code
+.vscode/
 
-# 4. 빌드 로그 및 캐시 임시 파일
-*.tlog
-*.log
-*.idb
-*.ipch
-*.lastbuildstate
+# CLion (JetBrains)
+.idea/
+cmake-build-debug/
+cmake-build-release/
 
-# 5. 기타 OS 자동 생성 파일
-.DS_Store
-Thumbs.db
+# === Custom Test Cases (Optional) ===
+# 로컬에서 테스트할 때 쓰는 input/output 텍스트 파일 예외 처리
+input.txt
+output.txt
