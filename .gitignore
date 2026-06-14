@@ -1,38 +1,13 @@
-# ==========================================
-# C++ & JetBrains Rider 코딩테스트용 .gitignore
-# ==========================================
+# 1. 우선 모든 파일과 폴더를 무시합니다.
+*
 
-# 1. JetBrains Rider IDE 설정 파일
-.idea/
-*.sln.iml
+# 2. 하지만 폴더 구조(디렉토리) 자체는 탐색할 수 있도록 허용합니다.
+!*/
 
-# 2. Visual Studio 빌드 폴더 및 파일 (Rider 내부 사용)
-.vs/
-*.user
-*.suo
+# 3. C++ 관련 소스 코드 파일만 예외적으로 깃허브에 올리도록 허용합니다.
+!*.cpp
+!*.h
+!*.hpp
 
-# 3. 컴파일 및 빌드 결과물 (깃허브에 올리면 안 되는 파일들)
-[Dd]ebug/
-[Rr]elease/
-x64/
-x86/
-*.exe
-*.obj
-*.pdb
-*.ilk
-*.lib
-*.dll
-*.exp
-*.out
-*.app
-
-# 4. 빌드 로그 및 캐시 임시 파일
-*.tlog
-*.log
-*.idb
-*.ipch
-*.lastbuildstate
-
-# 5. 기타 OS 자동 생성 파일
-.DS_Store
-Thumbs.db
+# 4. (선택) 만약 문제 풀이 설명용 README.md 파일도 올리고 싶다면 아래 주석을 해제하세요.
+!README.md
