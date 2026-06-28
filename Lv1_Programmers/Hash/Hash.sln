@@ -6,6 +6,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lv1_FaildtoFinish", "Lv1_Fa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PocketMon", "PocketMon\PocketMon.vcxproj", "{F1A77A34-5BC0-497B-BDA0-BD2C95F2E431}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringMyHeart", "..\StringMyHeart\StringMyHeart.vcxproj", "{7AA6DC2F-2DD2-4B9D-9754-F1FC0EE75AA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -38,5 +40,13 @@ Global
 		{F1A77A34-5BC0-497B-BDA0-BD2C95F2E431}.Release|Win32.Build.0 = Release|Win32
 		{F1A77A34-5BC0-497B-BDA0-BD2C95F2E431}.Release|x64.ActiveCfg = Release|x64
 		{F1A77A34-5BC0-497B-BDA0-BD2C95F2E431}.Release|x64.Build.0 = Release|x64
+		{7AA6DC2F-2DD2-4B9D-9754-F1FC0EE75AA1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7AA6DC2F-2DD2-4B9D-9754-F1FC0EE75AA1}.Debug|Win32.Build.0 = Debug|Win32
+		{7AA6DC2F-2DD2-4B9D-9754-F1FC0EE75AA1}.Debug|x64.ActiveCfg = Debug|x64
+		{7AA6DC2F-2DD2-4B9D-9754-F1FC0EE75AA1}.Debug|x64.Build.0 = Debug|x64
+		{7AA6DC2F-2DD2-4B9D-9754-F1FC0EE75AA1}.Release|Win32.ActiveCfg = Release|Win32
+		{7AA6DC2F-2DD2-4B9D-9754-F1FC0EE75AA1}.Release|Win32.Build.0 = Release|Win32
+		{7AA6DC2F-2DD2-4B9D-9754-F1FC0EE75AA1}.Release|x64.ActiveCfg = Release|x64
+		{7AA6DC2F-2DD2-4B9D-9754-F1FC0EE75AA1}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
